@@ -6,11 +6,19 @@
 
 ### Maquettage
 
+<<<<<<< HEAD
 * [x] Découvrir le maquettage d'interface d'une application (wireframe)
 * [x] Choix d'un outil de maquettage
 * [ ] Cadrer la demande client
 * [x] Découvrir les règles ergonomiques et d'expérience utilisateur
 * [x] Créer son premier wireframe (voir brief)
+=======
+* [ ] Découvrir le maquettage d'interface d'une application (wireframe)
+* [ ] Choix d'un outil de maquettage
+* [ ] Cadrer la demande client
+* [ ] Découvrir les règles ergonomiques et d'expérience utilisateur
+* [ ] Créer son premier wireframe (voir brief)
+>>>>>>> 1253e842f90eca45712a7e2aa6d4b883ee53534e
 
 
 ### Javascript
