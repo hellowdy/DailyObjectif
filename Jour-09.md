@@ -12,6 +12,7 @@
   * [x] Comprendre la syntaxe de base
   * [x] Savoir insérer du CSS de différentes manières dans une page HTML (4 manières)
   * [ ] Comprendre l'utilité et la différence entre classes, pseudo-classes, éléments, pseudo-éléments,  IDs et le selecteur universel
+<<<<<<< HEAD
   * [x] Savoir appliquer une mise en forme sur les éléments 
   * [x] Comprendre le box model
 
@@ -28,3 +29,7 @@
   * [ ] Découvrir le tri par insertion (Insertion Sort)
 
 
+=======
+  * [ ] Savoir appliquer une mise en forme sur les éléments 
+  * [ ] Comprendre le box model
+>>>>>>> 2c5f73e236507e88ad81d9ef98baee0cec7049c9

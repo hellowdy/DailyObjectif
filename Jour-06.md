@@ -2,7 +2,7 @@
 
 ## Phase 1 - Je suis un(e) développeur(se)
 
-## Mardi 21/09/2021
+## Lundi 20/09/2021
 
 ### Maquettage
 
@@ -18,6 +18,7 @@
 * [ ] Cadrer la demande client
 * [ ] Découvrir les règles ergonomiques et d'expérience utilisateur
 * [ ] Créer son premier wireframe (voir brief)
+<<<<<<< HEAD
 >>>>>>> 1253e842f90eca45712a7e2aa6d4b883ee53534e
 
 
@@ -29,3 +30,5 @@
     * [ ] Comprendre ce qu'est la spécification `ECMA-262`
     * [ ] Comprendre ce qu'est le `TC-39`
     * [ ] Lister les bonnes sources de documentation
+=======
+>>>>>>> 2c5f73e236507e88ad81d9ef98baee0cec7049c9
